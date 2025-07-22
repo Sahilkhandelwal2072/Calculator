@@ -28,8 +28,7 @@ This project is a basic web-based calculator that performs simple arithmetic ope
 4. Press `=` to calculate the result.
 
 ## 💡 Screenshot
-
-*(Add a screenshot here if you'd like)*
+![alt-img](images/Screenshot 2025-07-22 111445.png)
 
 ## 📌 Future Improvements
 
