@@ -29,6 +29,8 @@ This project is a basic web-based calculator that performs simple arithmetic ope
 
 ## 💡 Screenshot
 ![img-alt](images/1.png)
+![img-alt](images/2.png)
+![img-alt](images/3.png)
 
 ## 📌 Future Improvements
 
